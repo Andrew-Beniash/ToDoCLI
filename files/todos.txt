@@ -7,3 +7,7 @@ cook
 wash
 read
 eat
+wash face
+wash face
+wash face
+wash head
