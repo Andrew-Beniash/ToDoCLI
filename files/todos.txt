@@ -1,0 +1,9 @@
+cook
+cut
+read
+watch
+read
+cook
+wash
+read
+eat
