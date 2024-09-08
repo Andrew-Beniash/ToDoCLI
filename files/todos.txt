@@ -1,13 +1,9 @@
 cook
 cut
-read
 watch
-read
-cook
 wash
-read
+Read a book
 eat
 wash face
-wash face
-wash face
-wash head
+Update OS
+Watch movie
